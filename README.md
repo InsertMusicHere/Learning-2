@@ -1,7 +1,7 @@
 # Learning-2
 Using Python to clean Whatsapp chat data and then eventually creating data visualizations using Power BI
 
-I have recently started learning coding, using Python language.
+I have recently started learning to code, using Python language.
 
 for this specific code, I used a walkthrough given on the website : https://resagratia.com/2020/01/visualizing-whatsapp-chats-using-python-and-power-bi/
 
